@@ -1,0 +1,5 @@
+C:/Users/Soham Josan/AFT815_CA1_Soham_Josan/.utmp/Debug/4o1d1s4h/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Soham Josan/AFT815_CA1_Soham_Josan/.utmp/Debug/4o1d1s4h/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Soham Josan/AFT815_CA1_Soham_Josan/.utmp/Debug/4o1d1s4h/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Soham Josan/AFT815_CA1_Soham_Josan/.utmp/Debug/4o1d1s4h/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Soham Josan/AFT815_CA1_Soham_Josan/.utmp/Debug/4o1d1s4h/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
